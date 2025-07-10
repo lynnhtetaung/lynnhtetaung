@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Lynn Htet Aung
 
-🎓 Graduate from UCSY, Yangon, Myanmar  
+🎓 Bachelor from UCSY, Yangon, Myanmar  
 💼 Worked at Frontiir, Myanmar  
 🎓 PhD from Okayama University  
 💻 Currently working at a Japan IT company  
