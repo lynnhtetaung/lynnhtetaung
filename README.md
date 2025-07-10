@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Lynn Htet Aung
 
 🎓 Graduate from UCSY, Yangon, Myanmar  
-💼 Worked at Frontiir (4 years)  
+💼 Worked at Frontiir, Myanmar  
 🎓 PhD from Okayama University  
 💻 Currently working at a Japan IT company  
 
@@ -11,7 +11,7 @@
 ![Developer at work](https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif)
 
 ## 🔗 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/lynnhtetaung) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lynn-htet-aung-89b4b51a4/) 
 [![GitHub](https://img.shields.io/badge/GitHub-000000.svg?logo=github&logoColor=white)](https://github.com/lynnhtetaung) 
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2.svg?logo=twitter&logoColor=white)](https://twitter.com/yourusername)
 
@@ -23,5 +23,11 @@
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
 
-## 📊 GitHub Stats
-![Lynn's GitHub Stats](https://github-readme-stats.vercel.app/api?username=lynnhtetaung&show_icons=true&theme=default&hide_title=true&hide_border=true)
+<details>
+  <summary>📊 <b>GitHub Stats</b></summary>
+
+  <br>
+
+  ![Lynn's GitHub Stats](https://github-readme-stats.vercel.app/api?username=lynnhtetaung&show_icons=true&theme=default&hide_title=true&hide_border=true)
+
+</details>
