@@ -1,61 +1,27 @@
-<h1 align="center">Hi, I'm Lynn Htet Aung 👋</h1>
+# 👋 Hi, I'm Lynn Htet Aung
 
-<p align="center">
-  <a href="https://github.com/lynnhtetaung"><img src="https://img.shields.io/github/followers/lynnhtetaung?label=Follow&style=social" /></a>
-</p>
+🎓 Graduate from UCSY, Yangon, Myanmar  
+💼 Worked at Frontiir (4 years)  
+🎓 PhD from Okayama University  
+💻 Currently working at a Japan IT company  
 
----
+🚀 **Interests:** Cloud Computing | Web Dev | IoT | YOLO | AI  
+🎯 **Hobbies:** Football ⚽ | Cooking 🍳 | Guitar 🎸  
 
-🎓 I graduated from **University of Computer Studies, Yangon (UCSY), Myanmar**  
-🏢 Worked at **Frontiir, Yangon** for ~4 years  
-🎓 Completed my **Ph.D. at Okayama University, Japan**  
-💼 Currently working at a **Japan-based IT company**
+![Developer at work](https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif)
 
----
+## 🔗 Connect with Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/lynnhtetaung) 
+[![GitHub](https://img.shields.io/badge/GitHub-000000.svg?logo=github&logoColor=white)](https://github.com/lynnhtetaung) 
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2.svg?logo=twitter&logoColor=white)](https://twitter.com/yourusername)
 
-### 🚀 Interests & Specialties
+## 🛠 Tools & Languages
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
 
-- ☁️ Cloud Computing (AWS, GCP)
-- 🌐 Web Development (Full Stack)
-- 📦 Internet of Things (IoT)
-- 🎯 YOLO Object Detection
-- 🤖 Artificial Intelligence
-
----
-
-### 🧩 Hobbies
-
-- ⚽ Playing Football  
-- 🍳 Cooking  
-- 🎸 Playing Guitar  
-
----
-
-### 🛠 Languages and Tools
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" />
-
----
-
-### 📊 GitHub Stats
-
-<details>
-  <summary>Click to expand</summary>
-
-![Lynn's GitHub Stats](https://github-readme-stats.vercel.app/api?username=lynnhtetaung&show_icons=true&theme=tokyonight)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lynnhtetaung&layout=compact&theme=tokyonight)
-
-</details>
-
----
-
-### 📫 How to reach me
-
-- 📧 Email: [lynnhtetaung4@gmail.com](mailto:lynnhtetaung4@gmail.com)
-- 💼 LinkedIn: [linkedin.com/in/lynnhtetaung](https://linkedin.com/in/lynnhtetaung) *(add if available)*
-
+## 📊 GitHub Stats
+![Lynn's GitHub Stats](https://github-readme-stats.vercel.app/api?username=lynnhtetaung&show_icons=true&theme=default&hide_title=true&hide_border=true)
