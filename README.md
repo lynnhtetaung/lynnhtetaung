@@ -5,7 +5,7 @@
 🎓 PhD from Okayama University  
 💻 Currently working at a Japan IT company  
 
-🚀 **Interests:** Cloud Computing | Web Dev | IoT | YOLO | AI  
+🚀 **Interests:** Cloud Computing | Web | IoT | AI  
 🎯 **Hobbies:** Football ⚽ | Cooking 🍳 | Guitar 🎸  
 
 ![Developer at work](https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif)
