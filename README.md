@@ -3,7 +3,7 @@
 🎓 Bachelor from UCSY, Yangon, Myanmar  
 💼 Worked at Frontiir, Myanmar  
 🎓 PhD from Okayama University  
-💻 Currently working at a Japan IT company  
+💻 Currently working at a HR Provision, Japan  
 
 🚀 **Interests:** Cloud Computing | Web | IoT | AI  
 🎯 **Hobbies:** Football ⚽ | Cooking 🍳 | Guitar 🎸  
@@ -18,7 +18,7 @@
   <a href="https://github.com/lynnhtetaung">
     <img src="https://img.shields.io/badge/GitHub-000000.svg?logo=github&logoColor=white" />
   </a>
-  <a href="https://twitter.com/yourusername">
+  <a href="https://x.com/LynnH57023?t=LAAQoUkzMogwBXLifp94TA&s=09">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2.svg?logo=twitter&logoColor=white" />
   </a>
 </p>
