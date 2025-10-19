@@ -4,7 +4,7 @@
 💼 Worked at Frontiir, Myanmar  
 🎓 PhD from Okayama University  
 💻 Currently working at a HR Provision, Japan  
-📚 An editor on the Infoteks (Jsikti) editorial board. ![Jsikti](https://infoteks.org/journals/index.php/jsikti/about/editorialTeam)
+📚 An editor on the Infoteks (Jsikti) editorial board. ![Editor at academic](https://infoteks.org/journals/index.php/jsikti/about/editorialTeam)
 
 🚀 **Interests:** Cloud Computing | Web | IoT | AI  
 🎯 **Hobbies:** Football ⚽ | Cooking 🍳 | Guitar 🎸  
